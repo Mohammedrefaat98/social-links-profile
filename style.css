@@ -91,6 +91,6 @@ ul li:last-child{
         width:80%;
     }
     html,body{
-        width:auto;
+        height:auto;
     }
 }
