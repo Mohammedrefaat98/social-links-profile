@@ -90,4 +90,7 @@ ul li:last-child{
     .container{
         width:80%;
     }
+    html,body{
+        width:auto;
+    }
 }
